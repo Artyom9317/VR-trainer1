@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BottleWater
+  - FillArea
+  - FillAreaObjects
+  - CMFillArea
+  - GranulatorFillArea
+  - CM160_Mix
+  - CompaunderFillArea
+  - granuls
+  - tray
+  - FillBlocker
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - FillableObjects
+  - PurableObjects
+  - Test
+  - Cols
+  - Tray
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

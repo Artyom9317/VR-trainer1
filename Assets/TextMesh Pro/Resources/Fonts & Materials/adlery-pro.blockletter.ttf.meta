@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 35103164a80d05343901ea3696ad4baf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Adlery Pro
+  fontNames:
+  - Adlery Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7546f368a9d32884f92a335cb825d179, type: 3}
+  - {fileID: 12800000, guid: d0add8bbbad51e7408e4adf2f5bee353, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

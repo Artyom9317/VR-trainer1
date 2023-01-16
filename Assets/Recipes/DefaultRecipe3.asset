@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 606c1ded1850d294d8eb33cd1f6ca52b, type: 3}
+  m_Name: DefaultRecipe3
+  m_EditorClassIdentifier: 
+  title: "\u041F\u0440\u0438\u0433\u043E\u0442\u043E\u0432\u043B\u0435\u043D\u0438\u0435
+    \u043A\u0430\u0442\u0430\u043B\u0438\u0437\u0430\u0442\u043E\u0440\u0430"
+  firstMixingStage:
+    ingredients:
+    - fullName: "\u041D\u043E\u0441\u0438\u0442\u0435\u043B\u044C \u043A\u0430\u0442\u0430\u043B\u0438\u0437\u0430\u0442\u043E\u0440\u0430
+        (Al2O3)"
+      amount: 500
+      type: 0
+    - fullName: "\u041F\u0440\u043E\u043F\u0438\u0442\u043E\u0447\u043D\u044B\u0439
+        \u0440\u0430\u0441\u0442\u0432\u043E\u0440"
+      amount: 480
+      type: 3
+    timeInMinutes: 15
+    isStageOn: 1
+  secondMixingStage:
+    ingredients: []
+    timeInMinutes: 0
+    isStageOn: 0
+  formStage:
+    nozzle: 0
+    formDevice: 0
+    isStageOn: 0
+  dryingStage:
+    temperature: 100
+    timeInMinutes: 240
+    isStageOn: 1
+  calcinationStage:
+    temperature: 700
+    timeInMinutes: 120
+    isStageOn: 1
+  coolingDownStage:
+    temperature: 25
+    timeInMinutes: 30
+    isStageOn: 1
